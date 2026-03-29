@@ -1,0 +1,8 @@
+plan_id,program,tier,duration,resident_status,season
+TEN-SUM-RES-IND,tennis,individual,seasonal,resident,summer
+TEN-SUM-RES-HH,tennis,household,seasonal,resident,summer
+TEN-SUM-NON-IND,tennis,individual,seasonal,nonresident,summer
+TEN-SUM-NON-HH,tennis,household,seasonal,nonresident,summer
+FIT-MON-RES-IND,fitness,individual,monthly,resident,any
+FIT-MON-RES-SEN,fitness,senior,monthly,resident,any
+FIT-MON-NON-IND,fitness,individual,monthly,nonresident,any
